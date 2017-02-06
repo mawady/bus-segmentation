@@ -11,6 +11,6 @@ VIBOT: BUS segmenatation using Normalized Cuts
 ICIAR 2016: Automatic Nonlinear Filtering and Segmentation for Breast Ultrasound Images
 - Authors: Mohamed Elawady, Ibrahim Sadek, Abd El Rahman Shabayek, Gerard Pons, and Sergi Ganau
 - Paper: http://link.springer.com/chapter/10.1007/978-3-319-41501-7_24
-- Poster: 
+- Poster: http://www.slideshare.net/3awady/iciar-2016-poster-automatic-nonlinear-filtering-and-segmentation-for-breast-ultrasound-images
 
 Dataset: UDIAT [163 Images with GT] {Private} (Diagnostic Center of Sabadell, Spain)
