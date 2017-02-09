@@ -14,3 +14,5 @@ ICIAR 2016: Automatic Nonlinear Filtering and Segmentation for Breast Ultrasound
 - Poster: http://www.slideshare.net/3awady/iciar-2016-poster-automatic-nonlinear-filtering-and-segmentation-for-breast-ultrasound-images
 
 Dataset: UDIAT [163 Images with GT] {Private} (Diagnostic Center of Sabadell, Spain)
+
+Users of this software are encouraged to cite the following article: Elawady, Mohamed, et al. "Automatic Nonlinear Filtering and Segmentation for Breast Ultrasound Images." International Conference Image Analysis and Recognition. Springer International Publishing, 2016.
